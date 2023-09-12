@@ -37,3 +37,10 @@ span {
     border-radius: 4px;
     color: white;
 }
+
+button {
+    font-size: 3rem;
+    cursor: pointer;
+    background-color: transparent;
+    border: 0px;
+}
